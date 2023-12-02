@@ -4,6 +4,7 @@
 
 ## 设计模式总结
 
+- [观察者模式](/tutorials/observer.md)
 - [管道模式](/tutorials/pipeline.md)
 - [策略模式](/tutorials/strategy.md)
 
